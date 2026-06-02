@@ -1,4 +1,4 @@
-# igawaclawska.github.io — legacy redirect
+# igawaclawska.github.io - legacy redirect
 
 This repository is retired. It previously hosted my portfolio site and now exists
 only to redirect visitors from the old GitHub Pages address
